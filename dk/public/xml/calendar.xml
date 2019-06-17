@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sp="http://newsgator.com/xml/sharepoint" xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005" xmlns:ng="http://newsgator.com/schema/extensions" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:ngix="http://newsgator.com/schema/integration">
+  <channel>
+    <sp:secured>false</sp:secured>
+    <sp:meta source="http://sps.mbww.com/sites/mbg-emea/nordics/DK/list.rss?feed=IUM%20Calendar" baseTemplate="Events" schemaVersion="6" siteID="b67e4c45-39ce-4b98-914b-2006d6058bd2" siteCollectionID="df723b97-b1bd-47f6-91cb-59781325f5a7" listTitle="IUM Calendar" TemplateFeatureId="00bfea71-ec85-4903-972d-ebe475780106" id="e3fbdae4-e404-4912-8f7e-1bd644417dbc" />
+    <title>IUM Calendar</title>
+    <link>http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/IUM Calendar/calendar.aspx</link>
+    <description></description>
+    <lastBuildDate>Mon, 06 May 2013 09:25:29 GMT</lastBuildDate>
+    <generator>NewsGator-Enhanced Windows SharePoint Services V3 RSS Generator</generator>
+    <ttl>60</ttl>
+    <item>
+      <title>Christian Evendorff i jylland</title>
+      <link>http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/IUM Calendar/DispForm.aspx?ID=1959</link>
+      <description>Start date: 06-05-2013 06:30:00 &lt;br/&gt;End date: 07-05-2013 21:00:00 &lt;br/&gt;&lt;br/&gt;
+
+
+
+
+
+
+
+
+&lt;div dir=LTR&gt;&lt;/div&gt;
+
+
+</description>
+      <author>Schmidt, Philippa (CPH-IUM)</author>
+      <enclosure url="http://sps.mbww.com/_vti_bin/owssvr.dll?CS=65001&amp;Cmd=Display&amp;CacheControl=1&amp;List={e3fbdae4-e404-4912-8f7e-1bd644417dbc}&amp;ID=1959&amp;Using=%2Fsites%2Fmbg%2Demea%2Fnordics%2FDK%2FLists%2FIUM%20Calendar/event.ics" type="text/calendar" />
+      <pubDate ng:dateStr="6. maj 2013 01:23">Mon, 06 May 2013 06:23:24 GMT</pubDate>
+      <guid isPermaLink="true">http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/IUM Calendar/DispForm.aspx?ID=1959</guid>
+      <ng:summary>Start date: 06-05-2013 06:30:00 End date: 07-05-2013 21:00:00  </ng:summary>
+      <sp:UniqueId>dd311aa6-07f3-4f78-93ae-e0eb7ea28785</sp:UniqueId>
+      <category>Events</category>
+    </item>
+    <item>
+      <title>Christian Nyvang hos Microsoft</title>
+      <link>http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/IUM Calendar/DispForm.aspx?ID=1960</link>
+      <description>Date: 08-05-2013 &lt;br/&gt;&lt;br/&gt;&lt;div&gt;&lt;/div&gt;</description>
+      <author>Christensen, Lars Daniel (CPH-IUM)</author>
+      <enclosure url="http://sps.mbww.com/_vti_bin/owssvr.dll?CS=65001&amp;Cmd=Display&amp;CacheControl=1&amp;List={e3fbdae4-e404-4912-8f7e-1bd644417dbc}&amp;ID=1960&amp;Using=%2Fsites%2Fmbg%2Demea%2Fnordics%2FDK%2FLists%2FIUM%20Calendar/event.ics" type="text/calendar" />
+      <pubDate ng:dateStr="6. maj 2013 03:38">Mon, 06 May 2013 08:38:41 GMT</pubDate>
+      <guid isPermaLink="true">http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/IUM Calendar/DispForm.aspx?ID=1960</guid>
+      <ng:summary>Date: 08-05-2013 </ng:summary>
+      <sp:UniqueId>c472e8fb-ee2c-4269-a475-241da0dfbd41</sp:UniqueId>
+      <category>Events</category>
+    </item>
+    <item>
+      <title>Michael Døngart i Jylland</title>
+      <link>http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/IUM Calendar/DispForm.aspx?ID=1958</link>
+      <description>Date: 06-05-2013 &lt;br/&gt;&lt;br/&gt;
+
+
+
+
+
+
+
+
+&lt;div dir=LTR&gt;&lt;/div&gt;
+
+
+</description>
+      <author>Schmidt, Philippa (CPH-IUM)</author>
+      <enclosure url="http://sps.mbww.com/_vti_bin/owssvr.dll?CS=65001&amp;Cmd=Display&amp;CacheControl=1&amp;List={e3fbdae4-e404-4912-8f7e-1bd644417dbc}&amp;ID=1958&amp;Using=%2Fsites%2Fmbg%2Demea%2Fnordics%2FDK%2FLists%2FIUM%20Calendar/event.ics" type="text/calendar" />
+      <pubDate ng:dateStr="2. maj 2013 06:06">Thu, 02 May 2013 11:06:09 GMT</pubDate>
+      <guid isPermaLink="true">http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/IUM Calendar/DispForm.aspx?ID=1958</guid>
+      <ng:summary>Date: 06-05-2013  </ng:summary>
+      <sp:UniqueId>54301fcc-a356-4bf7-b4d9-8b60465a738f</sp:UniqueId>
+      <category>Events</category>
+    </item>
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <item>
+      <title>Dorthe Schnell FERIE</title>
+      <link>http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/IUM Calendar/DispForm.aspx?ID=1953</link>
+      <description>Date: 01-05-2013 &lt;br/&gt;&lt;br/&gt;
+
+
+
+
+
+
+
+
+&lt;div dir=LTR&gt;&lt;/div&gt;
+
+
+</description>
+      <author>IPGEMEA\annette.thomsen</author>
+      <enclosure url="http://sps.mbww.com/_vti_bin/owssvr.dll?CS=65001&amp;Cmd=Display&amp;CacheControl=1&amp;List={e3fbdae4-e404-4912-8f7e-1bd644417dbc}&amp;ID=1953&amp;Using=%2Fsites%2Fmbg%2Demea%2Fnordics%2FDK%2FLists%2FIUM%20Calendar/event.ics" type="text/calendar" />
+      <pubDate ng:dateStr="30. april 2013 04:00">Tue, 30 Apr 2013 09:00:58 GMT</pubDate>
+      <guid isPermaLink="true">http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/IUM Calendar/DispForm.aspx?ID=1953</guid>
+      <ng:summary>Date: 01-05-2013  </ng:summary>
+      <sp:UniqueId>05dd02b3-a278-4c03-95a7-b0afb31becac</sp:UniqueId>
+      <category>Events</category>
+    </item>
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+    <sp:nullitem />
+  </channel>
+</rss>

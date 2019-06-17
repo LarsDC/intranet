@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sp="http://newsgator.com/xml/sharepoint" xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005" xmlns:ng="http://newsgator.com/schema/extensions" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:ngix="http://newsgator.com/schema/integration">
+  <channel>
+    <sp:secured>false</sp:secured>
+    <sp:meta source="http://sps.mbww.com/sites/mbg-emea/nordics/DK/list.rss?feed=Opslagstavle" newFormUrl="http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/Opslagstavle/NewForm.aspx" baseTemplate="Announcements" schemaVersion="6" siteID="b67e4c45-39ce-4b98-914b-2006d6058bd2" siteCollectionID="df723b97-b1bd-47f6-91cb-59781325f5a7" listTitle="Opslagstavle" TemplateFeatureId="00bfea71-d1ce-42de-9c63-a44004ce0104" id="6d57378d-55b0-4892-bb1e-e08602f687fb" />
+    <title>Opslagstavle</title>
+    <link>http://sps.mbww.com/sites/mbg-emea/nordics/DK/Lists/Opslagstavle/AllItems.aspx</link>
+    <description></description>
+    <lastBuildDate>Mon, 06 May 2013 09:25:31 GMT</lastBuildDate>
+    <generator>NewsGator-Enhanced Windows SharePoint Services V3 RSS Generator</generator>
+    <ttl>60</ttl>
+    <sp:nullitem />
+  </channel>
+</rss>
